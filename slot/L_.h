@@ -3,4 +3,6 @@
 
 #define _(x) L##x
 
+const wchar_t* PWC = _("PTR");
+
 #endif
